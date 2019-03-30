@@ -36,7 +36,6 @@ public class Movement : MonoBehaviour
         {
             charController.Move(desiredMovement * movementSpeed);
             desiredMovement = Vector3.zero;
-            Debug.Log(desiredMovement);
         }
     }
 }
