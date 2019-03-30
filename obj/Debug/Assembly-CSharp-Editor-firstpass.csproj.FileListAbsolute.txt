@@ -408,3 +408,7 @@
 /home/chorm/Projects/GameJam2019-Flavia-Felix/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CopyComplete
 /home/chorm/Projects/GameJam2019-Flavia-Felix/obj/Debug/Assembly-CSharp-Editor-firstpass.dll
 /home/chorm/Projects/GameJam2019-Flavia-Felix/obj/Debug/Assembly-CSharp-Editor-firstpass.pdb
+/home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/NavMeshComponentsExamplesEditor.pdb
+/home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/NavMeshComponentsEditor.pdb
+/home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/NavMeshComponents.pdb
+/home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/NavMeshComponentsExamples.pdb
