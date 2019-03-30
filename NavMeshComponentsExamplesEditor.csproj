@@ -291,6 +291,24 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>/home/chorm/Unity/Hub/Editor/2018.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="ProBuilderMeshOps-Unity5">
+ <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ </Reference>
+ <Reference Include="ProBuilderCore-Unity5">
+ <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+ </Reference>
+ <Reference Include="KdTreeLib">
+ <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+ </Reference>
+ <Reference Include="Poly2Tri">
+ <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+ </Reference>
+ <Reference Include="pb_Stl">
+ <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+ </Reference>
+ <Reference Include="ProBuilderEditor-Unity5">
+ <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -305,24 +323,6 @@
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
  <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderEditor-Unity5">
- <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="Poly2Tri">
- <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
- </Reference>
- <Reference Include="KdTreeLib">
- <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
- </Reference>
- <Reference Include="pb_Stl">
- <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderCore-Unity5">
- <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>/home/chorm/Projects/GameJam2019-Flavia-Felix/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/home/chorm/Unity/Hub/Editor/2018.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
