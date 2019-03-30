@@ -764,6 +764,14 @@
       <Project>{4DC8AF14-0639-8ABC-836A-42A706168164}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
       <Project>{133DB955-795B-3BA2-0B00-B29B22BFA2E1}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="NavMeshComponentsExamplesEditor.csproj">
+      <Project>{B78EEA7F-6984-0385-2FD3-E9B4665EE538}</Project>      <Name>NavMeshComponentsExamplesEditor</Name>    </ProjectReference>
+    <ProjectReference Include="NavMeshComponentsEditor.csproj">
+      <Project>{D1EDBE69-807A-D1BE-4DAD-335A9B82E1DC}</Project>      <Name>NavMeshComponentsEditor</Name>    </ProjectReference>
+    <ProjectReference Include="NavMeshComponents.csproj">
+      <Project>{F915458B-3838-E5AA-4FE9-FF8F07DC981F}</Project>      <Name>NavMeshComponents</Name>    </ProjectReference>
+    <ProjectReference Include="NavMeshComponentsExamples.csproj">
+      <Project>{9D8838E6-DA61-214E-6074-187AD451FC3F}</Project>      <Name>NavMeshComponentsExamples</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

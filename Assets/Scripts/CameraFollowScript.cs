@@ -10,6 +10,7 @@ public class CameraFollowScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        lastPosition = target.position;
         if (target == null) Debug.LogError("Target for camera isn't set!");
     }
 

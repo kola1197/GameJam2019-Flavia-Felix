@@ -18,8 +18,7 @@ public class Movement : MonoBehaviour
         set
         {
             if (value != Vector3.zero)
-            {
-                Debug.Log(value);
+            { 
                 desiredMovement = Vector3.Normalize(value);
             }
         }
