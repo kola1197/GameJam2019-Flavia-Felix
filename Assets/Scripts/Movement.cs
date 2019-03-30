@@ -36,8 +36,8 @@ public class Movement : MonoBehaviour
         if (desiredMovement != Vector3.zero)
         {
             charController.Move(desiredMovement * movementSpeed);
-            transform.forward = desiredMovement;
             desiredMovement = Vector3.zero;
+            Debug.Log(desiredMovement);
         }
     }
 }

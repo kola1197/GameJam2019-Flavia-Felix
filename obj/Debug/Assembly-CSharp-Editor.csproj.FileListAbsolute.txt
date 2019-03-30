@@ -408,3 +408,5 @@
 /home/chorm/Projects/GameJam2019-Flavia-Felix/obj/Debug/Assembly-CSharp-Editor.csproj.CopyComplete
 /home/chorm/Projects/GameJam2019-Flavia-Felix/obj/Debug/Assembly-CSharp-Editor.dll
 /home/chorm/Projects/GameJam2019-Flavia-Felix/obj/Debug/Assembly-CSharp-Editor.pdb
+/home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.pdb

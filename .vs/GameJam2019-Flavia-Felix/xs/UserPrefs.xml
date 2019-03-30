@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{4DC8AF14-0639-8ABC-836A-42A706168164}|Модульные тесты">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InputManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraFollowScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/Movement.cs" Line="34" Column="24" />
-      <File FileName="Assets/Scripts/InputManager.cs" Line="18" Column="80" />
+      <File FileName="Assets/Scripts/Movement.cs" Line="40" Column="40" />
+      <File FileName="Assets/Scripts/InputManager.cs" Line="23" Column="52" />
+      <File FileName="Assets/Scripts/Aim.cs" Line="22" Column="28" />
+      <File FileName="Assets/Scripts/CameraFollowScript.cs" Line="11" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />

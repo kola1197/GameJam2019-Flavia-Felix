@@ -362,3 +362,4 @@
 /home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/UnityEditor.UI.dll
 /home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/UnityEditor.UI.dll.mdb
 /home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/UnityEditor.UI.xml
+/home/chorm/Projects/GameJam2019-Flavia-Felix/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
